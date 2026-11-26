@@ -1,0 +1,16 @@
+# Node
+node_modules/
+dist/
+
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.db
+*.db-shm
+*.db-wal
+
+# Secrets / local
+.env
+appsettings.Development.json
